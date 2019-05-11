@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328071189566",
+    "firebase_url": "https://t-prime-49aa3.firebaseio.com",
+    "project_id": "t-prime-49aa3",
+    "storage_bucket": "t-prime-49aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328071189566:android:c1dd90353c892973",
+        "android_client_info": {
+          "package_name": "com.panduaryw.t_prime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328071189566-noc259i6tovhe93m70l4jedfj2cns6a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panduaryw.t_prime",
+            "certificate_hash": "54a291ecf6b64d42deb64fe0aceb63e36f74ea1d"
+          }
+        },
+        {
+          "client_id": "328071189566-9ls94hi62u06r4j29hadbsfruomg8v4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjfEqzDiO5cX4UJxACXHW7cicR2HOE_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328071189566-9ls94hi62u06r4j29hadbsfruomg8v4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

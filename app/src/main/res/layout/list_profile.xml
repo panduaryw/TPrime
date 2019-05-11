@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    tools:context="com.panduaryw.t_prime.Profile">
+
+    <ImageView
+        android:id="@+id/logoBanner"
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/labelNama"
+        android:text="NAMA"
+        android:textSize="15sp"
+        android:layout_below="@id/logoBanner"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:id="@+id/textNama"
+        android:layout_below="@+id/labelNama"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dummy Nama"/>
+
+    <TextView
+        android:id="@+id/labelUsername"
+        android:text="USERNAME"
+        android:textSize="15sp"
+        android:layout_below="@id/textNama"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:id="@+id/textUsername"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/labelUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dummy username"/>
+
+    <TextView
+        android:id="@+id/labelNoHp"
+        android:text="NOMOR HANDPHONE"
+        android:textSize="15sp"
+        android:layout_below="@id/textUsername"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:id="@+id/textNoHp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/labelNoHp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dummy No HP"/>
+
+
+    <TextView
+        android:id="@+id/labelNoIdentitas"
+        android:text="NOMOR IDENTITAS"
+        android:textSize="15sp"
+        android:layout_below="@id/textNoHp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:id="@+id/textNoIdentitas"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/labelNoIdentitas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dummy No Identitas"/>
+
+    <TextView
+        android:id="@+id/labelAlamat"
+        android:text="ALAMAT"
+        android:textSize="15sp"
+        android:layout_below="@id/textNoIdentitas"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:id="@+id/textAlamat"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/labelAlamat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dummy Alamat"/>
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textAlamat"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="#f10307"
+        android:text="Back" />
+</RelativeLayout>

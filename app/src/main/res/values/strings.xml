@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">T-PRIME</string>
+    <string name="t_prime">T-PRIME</string>
+    <string name="kode_bis">Kode Bus: </string>
+    <string name="descr">Awal tahun gini kalau pesen tiket hiburan dan event bisa dapat cashback hingga 30 ribu di Tokopedia. pesan tiketnya sebelum tangga 31 january 2018 karena berlaku untuk semua metode pembayaran di Tokopedia, tanpa minimum transaksi. Transaksi pembelian tiket hiburan (Dufan, Atlantis Water Adventure, Aquafun, Jakarta Aquarium, Ocean Dream Samudra, Outbondholic, Seaworld Ancol, Snowbay Waterpark, Jogja Bay, Trans Studio Bandung, Jungleland, Pandora Experience, Teater IMAX Keong Mas, dan Bounce Street Asia Trampoline Park) atau pembelian tiket event akan mendapatkan cashback 20% senilai hingga Rp30.000 ke TokoCash; Jangan lupa untuk memasukan kupon yang berlaku untuk mengaktifkan promo</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_label">News</string>
+    <string name="kodeBis">PJ001</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBhtJhoqosbpF72z_H7lMqYNJyNXgQIAMc</string>
+    <string-array name="daftar">
+
+        <item>Jakarta Pool A</item>
+
+        <item>Jakarta Pool B</item>
+
+        <item>Jakarta Pool C</item>
+
+        <item>Jakarta Pool D</item>
+
+        <item>Jakarta Pool E</item>
+
+        <item>Bandung (Caringin) </item>
+
+        <item>Bandung (Batununggal) </item>
+
+        <item>Bandung Pool C</item>
+
+        <item>Bandung Pool D</item>
+
+        <item>Bandung Pool E</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="jumlah">
+
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>3</item>
+
+        <item>4</item>
+
+        <item>5</item>
+
+        <item>6</item>
+
+        <item>7</item>
+
+        <item>8</item>
+
+        <item>9</item>
+
+        <item>10</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="metode">
+
+        <item>Transfer</item>
+
+        <item>Kartu Kredit</item>
+
+        <item>ATM</item>
+
+        <item>Indomaret</item>
+
+        <item>Alfamart</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_invoice">Invoice</string>
+</resources>
